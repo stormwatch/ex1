@@ -1,0 +1,8 @@
+#+title: Landing 1
+#+date: <2019-12-25 mié>
+#+author: Ezequiel Birman
+#+email: ebirman77@gmail.com
+#+language: en
+#+creator: Emacs 26.3 (Org mode 9.3)
+
+An excercise in responsive webpage layout with pure CSS dropdown menu and pager.
